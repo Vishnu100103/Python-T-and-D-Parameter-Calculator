@@ -1,8 +1,7 @@
 # -*- coding: utf-8 -*-
 """
-Created on Fri Apr 10 17:58:11 2020
 
-@author: Angad Bajwa,Aditya Pethkar,Mandar Burande
+@author: Vishnu Prasad
 """
 #Libraries required
 import cmath
